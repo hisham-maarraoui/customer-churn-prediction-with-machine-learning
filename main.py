@@ -129,6 +129,9 @@ Geography_Germany |  0.091373
     
 
         Don't mention the probability of churning, or the machine learning model, or say anything like "Based on the machine learning model's prediction and the top 10 most important features", just explain the prediction.
+        Don't say anything like "If the customer has over a 40% risk of churning, here is a 3 sentence explanation of why he likely to churn".
+        Don't say anything like "If the customer has less than a 40% risk of churning, here is a 3 sentence explanation of why he is not likely to churn".
+        
     
     """
 
