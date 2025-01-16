@@ -157,7 +157,7 @@ def generate_email(probability, input_dict, explanation, surname):
     {explanation}
     
     
-    Generate an email to the customer based on ther information, asking them to stay if they are at risk of churning, or offering them incentives so that they become more loyal to the bank. Do not offer them interest related incentives or insurance related incentives. Do not offer them interest related incentives or insurance related incentives. Do not offer them interest related incentives or insurance related incentives.
+    Generate an email to the customer based on ther information, asking them to stay if they are at risk of churning, or offering them incentives so that they become more loyal to the bank. Do not offer them interest related incentives or insurance related incentives. Do not offer them interest related incentives or insurance related incentives. Do not offer them interest related incentives or insurance related incentives. Do not offer them cashback incentives or cashback related incentives. Do not offer them credit incentives or credit related incentives. Do not offer them credit card incentives or credit card related incentives.
     
     Make sure to list out a set of incentives to stay based on their information, in bullet point format. Don't ever mention the probability of churning, or the machine learning model to the customer.
     """
