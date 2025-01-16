@@ -123,8 +123,8 @@ Geography_Germany |  0.091373
     {df[df['Exited'] == 1].describe()}
 
 
-    - If based on the provided information, the customer has over a 40% risk of churning, generate a 3 sentence explanation of why they are at risk of churning.
-    - If based on the provided information, the customer has less than a 40% risk of churning, generate a 3 sentence explanation of why they might not be at risk of churning.
+    - If the customer has over a 40% risk of churning, generate a 3 sentence explanation of why they are at risk of churning.
+    - Else, if the customer has less than a 40% risk of churning, generate a 3 sentence explanation of why they might not be at risk of churning.
     - Your explanation should be based on the customer's information, the summary statistics of churned and non-churned customers, and the feature importances provided.
     
 
