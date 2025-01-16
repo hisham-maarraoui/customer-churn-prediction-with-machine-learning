@@ -269,7 +269,7 @@ if selected_customer_option:
 
   st.markdown("---")
 
-  st.subheader("Assesment & Explanation of Prediction")
+  st.subheader("Assesment & Explanation")
 
   st.markdown(explanation)
 
